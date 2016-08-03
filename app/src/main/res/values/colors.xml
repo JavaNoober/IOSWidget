@@ -6,4 +6,7 @@
     <color name="background_gray">#EFEFF4</color>
     <color name="background_blue">#3492E9</color>
     <color name="background_blue_dark">#21598F</color>
+    <color name="textblue">#007AFF</color>
+    <color name="textcolor_gray">#9B9B9B</color>
+    <color name="listbackground_on">#D4D4D4</color>
 </resources>
